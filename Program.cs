@@ -6,8 +6,14 @@
 public class Class1
 {
         static HttpClient client = new HttpClient();
-        
-        //Metodo implementada
+
+    //books
+
+    static void ShowBooks(List<Books>)
+    {
+        CreateBookAsync book1 = new CreateBookAsync();
+    }
+        //no implementado
         static void ShowBook(Book book)
         {
             Console.WriteLine($"Author: {book.author}\tChapters: " +
