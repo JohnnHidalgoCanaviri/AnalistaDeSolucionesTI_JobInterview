@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NkI0At+lXpuzR4R1TBf9VXrlSlp3xS+hhBkLJhTAQ05hHauri59uyXpigx5hqkov75ECfvnsiFEygRHKgGY9Lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\INTI\\source\\repos\\AppBooks\\CapaNegocio\\CapaNegocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\INTI\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

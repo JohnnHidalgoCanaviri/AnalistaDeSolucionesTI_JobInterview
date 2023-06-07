@@ -1,0 +1,15 @@
+C:\Users\INTI\source\repos\AppBooks\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\INTI\source\repos\AppBooks\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTI\source\repos\AppBooks\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\INTI\source\repos\AppBooks\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\INTI\source\repos\AppBooks\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\INTI\source\repos\AppBooks\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\INTI\source\repos\AppBooks\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\INTI\source\repos\AppBooks\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\INTI\source\repos\AppBooks\CapaNegocio\bin\Debug\net6.0\CapaModelo.dll
+C:\Users\INTI\source\repos\AppBooks\CapaNegocio\bin\Debug\net6.0\CapaModelo.pdb
+C:\Users\INTI\source\repos\AppBooks\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\INTI\source\repos\AppBooks\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\INTI\source\repos\AppBooks\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\INTI\source\repos\AppBooks\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\INTI\source\repos\AppBooks\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll

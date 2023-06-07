@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rB6CowO6S2SdY1h8TZwmiA+lOZ2ikLXrBlSlz+JZSMkWRzXDINTxkXQ8ry8No5663TyeqzyfpSD0FykPNgH06g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\INTI\\source\\repos\\AppBooks\\AppBooks\\AppBooks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\INTI\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

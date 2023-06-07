@@ -1,0 +1,12 @@
+C:\Users\INTI\source\repos\AppBooks\CapaModelo\obj\Debug\net6.0\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\INTI\source\repos\AppBooks\CapaModelo\obj\Debug\net6.0\CapaModelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTI\source\repos\AppBooks\CapaModelo\obj\Debug\net6.0\CapaModelo.AssemblyInfoInputs.cache
+C:\Users\INTI\source\repos\AppBooks\CapaModelo\obj\Debug\net6.0\CapaModelo.AssemblyInfo.cs
+C:\Users\INTI\source\repos\AppBooks\CapaModelo\obj\Debug\net6.0\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\INTI\source\repos\AppBooks\CapaModelo\bin\Debug\net6.0\CapaModelo.deps.json
+C:\Users\INTI\source\repos\AppBooks\CapaModelo\bin\Debug\net6.0\CapaModelo.dll
+C:\Users\INTI\source\repos\AppBooks\CapaModelo\bin\Debug\net6.0\CapaModelo.pdb
+C:\Users\INTI\source\repos\AppBooks\CapaModelo\obj\Debug\net6.0\CapaModelo.dll
+C:\Users\INTI\source\repos\AppBooks\CapaModelo\obj\Debug\net6.0\refint\CapaModelo.dll
+C:\Users\INTI\source\repos\AppBooks\CapaModelo\obj\Debug\net6.0\CapaModelo.pdb
+C:\Users\INTI\source\repos\AppBooks\CapaModelo\obj\Debug\net6.0\ref\CapaModelo.dll
