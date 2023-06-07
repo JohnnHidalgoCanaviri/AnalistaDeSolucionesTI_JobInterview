@@ -1,0 +1,15 @@
+C:\Users\INTI\Source\Repos\AnalistaDeSolucionesTI_JobInterview\obj\Debug\net7.0\AnalistaDeSolucionesTI_JobInterview.csproj.AssemblyReference.cache
+C:\Users\INTI\Source\Repos\AnalistaDeSolucionesTI_JobInterview\obj\Debug\net7.0\AnalistaDeSolucionesTI_JobInterview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTI\Source\Repos\AnalistaDeSolucionesTI_JobInterview\obj\Debug\net7.0\AnalistaDeSolucionesTI_JobInterview.AssemblyInfoInputs.cache
+C:\Users\INTI\Source\Repos\AnalistaDeSolucionesTI_JobInterview\obj\Debug\net7.0\AnalistaDeSolucionesTI_JobInterview.AssemblyInfo.cs
+C:\Users\INTI\Source\Repos\AnalistaDeSolucionesTI_JobInterview\obj\Debug\net7.0\AnalistaDeSolucionesTI_JobInterview.csproj.CoreCompileInputs.cache
+C:\Users\INTI\Source\Repos\AnalistaDeSolucionesTI_JobInterview\bin\Debug\net7.0\AnalistaDeSolucionesTI_JobInterview.exe
+C:\Users\INTI\source\repos\AnalistaDeSolucionesTI_JobInterview\bin\Debug\net7.0\AnalistaDeSolucionesTI_JobInterview.deps.json
+C:\Users\INTI\source\repos\AnalistaDeSolucionesTI_JobInterview\bin\Debug\net7.0\AnalistaDeSolucionesTI_JobInterview.runtimeconfig.json
+C:\Users\INTI\Source\Repos\AnalistaDeSolucionesTI_JobInterview\bin\Debug\net7.0\AnalistaDeSolucionesTI_JobInterview.dll
+C:\Users\INTI\Source\Repos\AnalistaDeSolucionesTI_JobInterview\bin\Debug\net7.0\AnalistaDeSolucionesTI_JobInterview.pdb
+C:\Users\INTI\Source\Repos\AnalistaDeSolucionesTI_JobInterview\obj\Debug\net7.0\AnalistaDeSolucionesTI_JobInterview.dll
+C:\Users\INTI\Source\Repos\AnalistaDeSolucionesTI_JobInterview\obj\Debug\net7.0\refint\AnalistaDeSolucionesTI_JobInterview.dll
+C:\Users\INTI\Source\Repos\AnalistaDeSolucionesTI_JobInterview\obj\Debug\net7.0\AnalistaDeSolucionesTI_JobInterview.pdb
+C:\Users\INTI\source\repos\AnalistaDeSolucionesTI_JobInterview\obj\Debug\net7.0\AnalistaDeSolucionesTI_JobInterview.genruntimeconfig.cache
+C:\Users\INTI\source\repos\AnalistaDeSolucionesTI_JobInterview\obj\Debug\net7.0\ref\AnalistaDeSolucionesTI_JobInterview.dll
