@@ -1,0 +1,15 @@
+C:\Users\INTI\Documents\AnalistaDeSolucionesTI_JobInterview\consumeAPIConsole\consumeAPIConsole\bin\Debug\net6.0\consumeAPIConsole.exe
+C:\Users\INTI\Documents\AnalistaDeSolucionesTI_JobInterview\consumeAPIConsole\consumeAPIConsole\bin\Debug\net6.0\consumeAPIConsole.deps.json
+C:\Users\INTI\Documents\AnalistaDeSolucionesTI_JobInterview\consumeAPIConsole\consumeAPIConsole\bin\Debug\net6.0\consumeAPIConsole.runtimeconfig.json
+C:\Users\INTI\Documents\AnalistaDeSolucionesTI_JobInterview\consumeAPIConsole\consumeAPIConsole\bin\Debug\net6.0\consumeAPIConsole.dll
+C:\Users\INTI\Documents\AnalistaDeSolucionesTI_JobInterview\consumeAPIConsole\consumeAPIConsole\bin\Debug\net6.0\consumeAPIConsole.pdb
+C:\Users\INTI\Documents\AnalistaDeSolucionesTI_JobInterview\consumeAPIConsole\consumeAPIConsole\obj\Debug\net6.0\consumeAPIConsole.csproj.AssemblyReference.cache
+C:\Users\INTI\Documents\AnalistaDeSolucionesTI_JobInterview\consumeAPIConsole\consumeAPIConsole\obj\Debug\net6.0\consumeAPIConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTI\Documents\AnalistaDeSolucionesTI_JobInterview\consumeAPIConsole\consumeAPIConsole\obj\Debug\net6.0\consumeAPIConsole.AssemblyInfoInputs.cache
+C:\Users\INTI\Documents\AnalistaDeSolucionesTI_JobInterview\consumeAPIConsole\consumeAPIConsole\obj\Debug\net6.0\consumeAPIConsole.AssemblyInfo.cs
+C:\Users\INTI\Documents\AnalistaDeSolucionesTI_JobInterview\consumeAPIConsole\consumeAPIConsole\obj\Debug\net6.0\consumeAPIConsole.csproj.CoreCompileInputs.cache
+C:\Users\INTI\Documents\AnalistaDeSolucionesTI_JobInterview\consumeAPIConsole\consumeAPIConsole\obj\Debug\net6.0\consumeAPIConsole.dll
+C:\Users\INTI\Documents\AnalistaDeSolucionesTI_JobInterview\consumeAPIConsole\consumeAPIConsole\obj\Debug\net6.0\refint\consumeAPIConsole.dll
+C:\Users\INTI\Documents\AnalistaDeSolucionesTI_JobInterview\consumeAPIConsole\consumeAPIConsole\obj\Debug\net6.0\consumeAPIConsole.pdb
+C:\Users\INTI\Documents\AnalistaDeSolucionesTI_JobInterview\consumeAPIConsole\consumeAPIConsole\obj\Debug\net6.0\consumeAPIConsole.genruntimeconfig.cache
+C:\Users\INTI\Documents\AnalistaDeSolucionesTI_JobInterview\consumeAPIConsole\consumeAPIConsole\obj\Debug\net6.0\ref\consumeAPIConsole.dll
