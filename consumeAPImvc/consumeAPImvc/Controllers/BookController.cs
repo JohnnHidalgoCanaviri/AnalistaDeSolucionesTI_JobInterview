@@ -1,5 +1,6 @@
 ﻿using consumeAPImvc.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Text.Json.Serialization;
 
 namespace consumeAPImvc.Controllers
 {
@@ -12,7 +13,7 @@ namespace consumeAPImvc.Controllers
 
             using (var client = new HttpClient())
             {
-                client.BaseAddress = new Uri("http://localhost:64189/api/");
+                client.BaseAddress = new Uri("https://www.abibliadigital.com.br/api/books");
                 //HTTP GET
                 var responseTask = client.GetAsync("book");
                 responseTask.Wait();
@@ -20,7 +21,10 @@ namespace consumeAPImvc.Controllers
                 var result = responseTask.Result;
                 if (result.IsSuccessStatusCode)
                 {
-                    var readTask = result.Content.ReadAsAsync<IList<Book>>();
+                    // var readTask = result.Content.ReadAsAsync<IList<Book>>();
+                    string responseContent = result.Content.ReadAsStringAsync();
+                    var readTask = JsonConverter.DeserializeObject<Book>(responseContent);
+
                     readTask.Wait();
 
                     books = readTask.Result;
@@ -31,7 +35,7 @@ namespace consumeAPImvc.Controllers
 
                     books = Enumerable.Empty<Book>();
 
-                    ModelState.AddModelError(string.Empty, "Server error. Please contact administrator.");
+                    ModelState.AddModelError(string.Empty, "Error en el servidor. Por favor contactese con el administrador.");
                 }
             }
             return View(books);
